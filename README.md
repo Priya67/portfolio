@@ -1,6 +1,7 @@
-#PERSONAL SITE
+# PERSONAL SITE
 This is the code for my portfolio. I am using a bootstrap and customizing it according to my need.
 
-##CREDITS
+## CREDITS
 http://www.designbootstrap.com/
+<br>
 http://getbootstrap.com
